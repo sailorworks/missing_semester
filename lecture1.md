@@ -90,6 +90,6 @@ game4
 ```
 Pipe command  took two different programmes which are not correlated and printed the output.
 
-![lul](https://user-images.githubusercontent.com/97829644/207043312-04848661-cea8-400b-9572-1b8991a8ff7f.png)
+exercise
 
-Pipe command  took two different programmes which are not correlated and printed the output.
+![lul](https://user-images.githubusercontent.com/97829644/207043312-04848661-cea8-400b-9572-1b8991a8ff7f.png)
