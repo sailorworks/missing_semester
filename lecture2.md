@@ -116,4 +116,8 @@ sahilprasad@Sahils-MacBook-Air ~ % history
  19  cd desktop
 ```
 There are commands to curate your ```History``` output. We can used control+r(mac) to enable backward search through the history.
+ 
+ Exercise Solution:
+ <img width="646" alt="Screenshot 2022-12-18 at 12 58 53 AM" src="https://user-images.githubusercontent.com/97829644/208263247-176b7e5f-b7af-48db-82b1-92680c3ed676.png">
+
 
