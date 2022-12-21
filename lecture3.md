@@ -85,3 +85,6 @@ These are some resources which are standard to get started with Vim:
  - [Practical Vim](https://pragprog.com/titles/dnvim2/) (book)
  
  Now let's try using Vim for the next month.
+          
+Exercise:
+          <img width="637" alt="Screenshot 2022-12-21 at 4 37 18 PM" src="https://user-images.githubusercontent.com/97829644/208891722-1357483f-3925-46ce-89d7-f6356fa7009a.png">
