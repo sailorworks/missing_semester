@@ -5,7 +5,7 @@ The shell is a very basic textual interface that allows you to change programmes
 
 ## Understanding shell:
 
-We can understand shell as a programming environment and just like that it has conditionals, loops and functions. If you are using linux or mac os the terminal is the main textual interface to the shell. For windows you have to use [windows subsystem for linux](https://learn.microsoft.com/en-us/windows/wsl/) or a linux virtual machine just to use unix-style command line tools.
+Shell provides an interface between user and system hardware throught kernel. We can understand shell as a programming environment and just like that it has conditionals, loops and functions. If you are using linux or mac os the terminal is the main textual interface to the shell. For windows you have to use [windows subsystem for linux](https://learn.microsoft.com/en-us/windows/wsl/) or a linux virtual machine just to use unix-style command line tools.
 
 ## Getting started with shell:
 
